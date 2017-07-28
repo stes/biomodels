@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://biomodels.stes.github.io"
+baseurl = "https://stes.github.io/biomodels/"
 languageCode = "en-us"
 title = "Biomodels Retreat 2017"
 theme = "hugo-agency-theme"

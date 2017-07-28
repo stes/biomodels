@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://biomodels.stes.github.io/</loc>
+    <loc>https://stes.github.io/biomodels/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomodels.stes.github.io/categories/</loc>
+    <loc>https://stes.github.io/biomodels/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://biomodels.stes.github.io/tags/</loc>
+    <loc>https://stes.github.io/biomodels/tags/</loc>
     <priority>0</priority>
   </url>
   
