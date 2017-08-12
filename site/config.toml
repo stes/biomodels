@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Biomodels Retreat 2017"
+  description = "Invitation to the CdE Biomodels Retreat 2017 in Barcelona"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -82,19 +82,16 @@ googleAnalytics = ""
       icon = "fa-graduation-cap"
       title = "Research Talks"
       description = "We offer a variety of talks relevant to research in biology, computer science and related fields. Own contributions are highly appreciated."
-      url = "#"
 
     [[params.services.row.list]]
       icon = "fa-area-chart"
       title = "Poster Session"
       description = "Present your current research & ideas and get useful feedback and suggestions"
-      url = "#"
 
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Find Collaborators"
       description = "You're already working on a project? Profit from the interdisciplinary atmosphere and find collaborators from your and other disciplines."
-      url = "#"
 
   # Portfolio section
   [params.portfolio]
